@@ -1,6 +1,8 @@
 # Scheduler Fix for Loop Hero
+You need to install YYTK for LoopHero for this mod.
 
-Fixes a problem described here:
+Downloads are on the "Releases" tab on the right ->>>>
+## Fixes a problem described here:
 - https://forum.gamemaker.io/index.php?threads/fps-issue-getting-wierd-fps-drops-sometimes.14564/
 Also this is more or less just a reimplementation of
 - https://github.com/omicronrex/gms_scheduler_fix
